@@ -1,4 +1,4 @@
-# OCT-Detector
+# OCT-Detector with high accuracy
 <h2>I did just model </h2>
 <h1>Dataset description form kaggle</h1>
 Context
