@@ -1,5 +1,7 @@
 # OCT-Detector with high accuracy
 <h2>I did just model </h2>
+my simple project(Diagnostic model) for Retinal optical coherence tomography (OCT) , I reached to accuracy 99.48%  with more than transfer learning (pre-trained model) models (VGG19 , ModileNet , DenseNet169)
+
 <h1>Dataset description form kaggle</h1>
 Context
 http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
